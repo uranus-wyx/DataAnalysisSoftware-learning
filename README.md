@@ -1,11 +1,11 @@
 ## 【Side Project】Data Analysis Software - Which Strategy can make Game application more popular?
-### GOAL
+- ### GOAL
 
 We wanted to figure out how to attract users to download Game App which its download amount account for most on App Store.
 
 Thus, we researched the difference between the Apple App Store and Google Play Store and analyzed their category differentiation to seek the hottest categories.
 
-### Analysis Result
+- ### Analysis Result
 
 #### Why we choose Game App?
 At the limited data, game Apps have the most applications, comments, and income, so we choose Game Apps as our analysis goal.
@@ -32,10 +32,10 @@ There are some game applications classified into the other genres in the Google 
 
 
 #### Classification
-A. Free download, no In-App purchase
-B. Free download, In-App purchase
-C. Purchase, no In-App purchase
-D. Purchase, In-App purchase
+1. Free download, no In-App purchase
+2. Free download, In-App purchase
+3. Purchase, no In-App purchase
+4. Purchase, In-App purchase
 
 - Average User Rating of 4 classification 
 
@@ -58,6 +58,7 @@ D. Purchase, In-App purchase
 | In-App purchase    |     2.055E7   |    1270255   |
 
 - Update Status
+
     Free download application has 28.47% to stop updating.
 
 <img width="395" alt="image" src="https://github.com/uranus-wyx/SideProject-GameAppStrategy/assets/55570963/ad0620e7-fbaa-4fed-95b7-ae60dce430b4">
